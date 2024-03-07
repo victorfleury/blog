@@ -1,0 +1,79 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Victor Fleury"
+theme = "hello-friend-ng"
+paginate     = 10
+enableEmoji = true
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+copyright = "Victor Fleury"
+
+[params]
+	dateform        = "Jan 2, 2006"
+	dateformShort   = "Jan 2"
+	dateformNum     = "2006-01-02"
+	dateformNumTime = "2006-01-02 15:04"
+
+	# Subtitle for home
+	homeSubtitle = "I am a VFX Software Developer. Helping make pretty pixels"
+	enableThemeToggle = true
+
+	[[params.author]]
+		name = "victor"
+
+	[params.footer]
+		trademark = 2024
+		rss = true
+		copyright = true
+		author = true
+
+		topText = []
+		bottomText = [
+		  "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+		]
+	
+	[params.logo]
+		logoMark     = ">"
+		logoText     = "plop"
+		logoHomeLink = "/"
+	[params.portrait]
+		path = "/avataaars.png"
+		alt = "Portrait"
+
+	[[params.social]]
+		name = "email"
+		url  = "mailto:victor(dot)fleury(at)gmail(dot)com"
+
+	[[params.social]]
+		name = "github"
+		url  = "https://github.com/victorfleury"
+
+	[[params.social]]
+		name = "linkedin"
+		url  = "https://www.linkedin.com/in/victorfleury"
+
+	[[params.social]]
+		name = "imdb"
+		url = ""
+
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+    weight     = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight     = 2
+  [[menu.main]]
+    identifier = "now"
+    name = "Now"
+    url = "/now"
+    weight     = 3
+  [[menu.main]]
+    identifier = "like"
+    name = "Like"
+    url = "/like"
+
+
