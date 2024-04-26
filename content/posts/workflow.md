@@ -14,22 +14,30 @@ tags:
 In this first 2024 blog post, I thought I would share my usual workflow for my development tools and needs
 
 
-# Steps and Tools that I use
+# Tools that I use
 
 ## Tools
 First the tools I use everyday : 
 
-- Kitty
-- Tmux
-- Neovim
+- [Kitty](https://sw.kovidgoyal.net/kitty/)
+- [Tmux](https://github.com/tmux/tmux)
+- [Neovim](https://neovim.io/)
 
-Those are my bread and butter for my every day work !
+Those are the bread and butter for my every day work !
 
 ## Steps
+
 As a developer I spend most of my time writing code, or at least I try to cause that's what I enjoy the most.
 
 And to do to so here are the steps I go through :
 
 - Open Kitty to get a new terminal
-- Usually I will connect to the work VPN
 - Launch my custom `stm` command commuting me to where I need (pun intended with [stm](https://www.stm.info/en))
+
+From there I have a small bash function that uses [fzf](https://github.com/junegunn/fzf/) to let me select the remote machine I want to connect to.
+
+From there I get a list of tmux sessions that I can choose from depending on what I have to work on.
+
+This works rather great for me !
+
+You can have a look at my [dotfiles](https://github.com/victorfleury/dotfiles) and see how this is setup.
