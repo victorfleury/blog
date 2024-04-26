@@ -32,4 +32,4 @@ And to do to so here are the steps I go through :
 
 - Open Kitty to get a new terminal
 - Usually I will connect to the work VPN
-- Launch my custom `stm` script
+- Launch my custom `stm` command commuting me to where I need (pun intended with [stm](https://www.stm.info/en))

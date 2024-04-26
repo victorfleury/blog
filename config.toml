@@ -15,7 +15,7 @@ copyright = "Victor Fleury"
 	dateformNumTime = "2006-01-02 15:04"
 
 	# Subtitle for home
-	homeSubtitle = "I am a VFX Software Developer. Helping make pretty pixels"
+	homeSubtitle = "I am a VFX Software Developer. Helping artists make pretty pixels"
 	enableThemeToggle = true
 
 	[[params.author]]
@@ -33,7 +33,7 @@ copyright = "Victor Fleury"
 		]
 	
 	[params.logo]
-		logoMark     = ">"
+		logoMark     = "$"
 		logoText     = "plop"
 		logoHomeLink = "/"
 	[params.portrait]

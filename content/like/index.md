@@ -7,4 +7,6 @@
 - tmux
 - fzf
 - kitty
+- git-cliff
+
 
