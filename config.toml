@@ -26,10 +26,9 @@ copyright = "Victor Fleury"
 		rss = true
 		copyright = true
 		author = true
-
-		topText = []
+		#topText = []
 		bottomText = [
-		  "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+		 "Made with &#10084;",  "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
 		]
 	
 	[params.logo]
