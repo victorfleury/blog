@@ -70,9 +70,9 @@ copyright = "Victor Fleury"
     name = "Now"
     url = "/now"
     weight     = 3
-  [[menu.main]]
-    identifier = "like"
-    name = "Like"
-    url = "/like"
+  #[[menu.main]]
+    #identifier = "like"
+    #name = "Like"
+    #url = "/like"
 
 

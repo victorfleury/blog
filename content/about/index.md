@@ -4,11 +4,13 @@
 
 I am a software developer.
 
-Working at [RodeoFX](https://rodeofx.com) as Lead Pipeline Developer.
+Working at [RodeoFX](https://rodeofx.com) as Senior Core Pipeline Developer.
 
 Basically, making data flow and helping artists make pretty pixels.
 
 Trying to design nice processes and workflows for the team !
+
+You can learn more about my journey on my [LinkedIn](https://www.linkedin.com/in/victorfleury/) profile.
 
 #### Technology I use and am familiar with : 
 
