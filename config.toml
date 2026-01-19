@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://victorfleury.github.io/'
 languageCode = 'en-us'
 title = "Victor Fleury"
 theme = "hello-friend-ng"
@@ -53,7 +53,7 @@ copyright = "Victor Fleury"
 
 	[[params.social]]
 		name = "imdb"
-		url = ""
+		url = "https://www.imdb.com/name/nm6042216/"
 
   [[menu.main]]
     identifier = "blog"
